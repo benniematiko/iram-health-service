@@ -4,7 +4,7 @@ const Main = () => {
   return (
     <div>
 
-        <h2>Coming up soon!</h2>
+        <h2>Coming up soon ...!</h2>
       
     </div>
   )
